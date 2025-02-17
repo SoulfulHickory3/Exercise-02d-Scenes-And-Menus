@@ -15,8 +15,8 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 ## References
 None
 
-## Future Development
-Advanced features?
+## Features
+Added an ascii art background and spruced up text and buttons.
 
 ## Created by
 Maxym Chmeliwskyj
